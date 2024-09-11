@@ -12,7 +12,8 @@ h1{
     text-align: center;
 }
 div {
-    background: linear-gradient(to right , rgb(116,58,212),rgb(211,58,157));
+/*     background: linear-gradient(to right , rgb(116,58,212),rgb(211,58,157)); */
+    background: linear-gradient(to right , rgb(209, 212, 58),rgb(211, 58, 208));
     max-width: 900px;
     margin: 50px auto;
     background-color: #fff;
